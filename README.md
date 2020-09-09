@@ -1,2 +1,3 @@
 # myrepo
-testing my setup
+testing my setup in preperation at Caitie Kuempel's workshop
+
